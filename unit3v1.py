@@ -19,3 +19,5 @@ if keypressed == 27:
     cv2.waitKey(1) #needed by macs to complete destroyAllwindows()
     
 cap.release() #releases webcam from this code
+
+#edited in github
